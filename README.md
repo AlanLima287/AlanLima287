@@ -3,13 +3,12 @@
 
 ## About Me
 
-My name is Alan Lima, I live in Diamantina, Minas Gerais, Brazil. I'm currently a Undergrad in Information Systems at [UFVJM](https://portal.ufvjm.edu.br/a-universidade/cursos/sin) and a Computer Technician from [IFMG](https://www.sje.ifmg.edu.br/portal/index.php/tecnico/informatica). I'm currently learning about low-level systems. I'm looking forward to improving my skill in the field of Programming and IT in general.
+My name is Alan Lima, I live in Diamantina, Minas Gerais, Brazil. I'm currently an Undergrad in Information Systems at [UFVJM](https://portal.ufvjm.edu.br/a-universidade/cursos/sin) and a Computer Technician from [IFMG](https://www.sje.ifmg.edu.br/portal/index.php/tecnico/informatica). I working with a broad stack, focusing mainly on Desktop Applications and Low-Level System. I'm looking forward to improving my skill in the field of Programming and IT in general.
 
 ## Skills
 
-**Languages**: C, C++, x86 Assembly, JavaScript, HTML & CSS, MySQL and PHP;
-
-**Technologies**: Excel, Word, PowerPoint, Git, GitHub, LaTex;
+- **Languages**: C, C++, x86 Assembly, Java, Go, JavaScript, HTML & CSS, MySQL;
+- **Technologies**: Excel, Word, PowerPoint, Git, GitHub, LaTex;
 
 ## Education
 
